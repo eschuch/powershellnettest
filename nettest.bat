@@ -73,6 +73,9 @@ date /t
 echo @#@ time
 time /t
 ECHO.**********************************************************
+echo.IPV4 Autenticação
+powershell -command (Invoke-WebRequest -Uri https://api.ipify.org).Content
+ECHO.**********************************************************
 echo @#@ ipconfig
 ipconfig
 ECHO.**********************************************************
