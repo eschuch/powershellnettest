@@ -1,33 +1,13 @@
 @echo off
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
-:: Se voce esta lendo este texto, voce deve fechar esta janela, renomear o arquivo para run.bat e executar novamente
+
+
+
+
+
+
+
+
+:: Clique com o botão direito e salvar como nettest.bat
 
 
 
