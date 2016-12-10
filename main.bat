@@ -1,3 +1,3 @@
 @ECHO OFF
-PowerShell.exe -ExecutionPolicy Bypass -Command "& '%~dpn0.txt'"
+PowerShell.exe -ExecutionPolicy Bypass -Command "& '%~dpn0.ps1'"
 pause
